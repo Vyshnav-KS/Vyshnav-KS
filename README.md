@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on FOSS
 - 🤔 I’m looking awesome projects
 - 💬 Ask me about anything about tech
-- 📫 How to reach me: Linkedin @Vyshnav KS[](https://www.linkedin.com/in/vyshnav-ks-a5b5351a5/)
+- 📫 How to reach me: [Linkedin @Vyshnav KS](https://www.linkedin.com/in/vyshnav-ks-a5b5351a5/)
 - 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: -->
 
