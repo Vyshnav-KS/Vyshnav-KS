@@ -3,8 +3,8 @@
 - 🔭 I’m an engineering aspirant
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on FOSS
-- 🤔 I’m looking awesome projects
-- 💬 Ask me about anything about tech
+- 🤔 I’m looking for awesome projects
+- 💬 Ask me anything about tech
 - 📫 How to reach me: [Linkedin @Vyshnav KS](https://www.linkedin.com/in/vyshnav-ks-a5b5351a5/)
 - 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: -->
