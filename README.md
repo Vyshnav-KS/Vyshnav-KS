@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vyshnav-KS&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Vyshnav-KS&&show_icons=true&title_color=ffffff&icon_color=19fc42&text_color=05f8fc&bg_color=000326">
