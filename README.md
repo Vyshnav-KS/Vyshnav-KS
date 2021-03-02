@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vyshnav
 
 - 🔭 I’m an engineering aspirant
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning django
 - 👯 I’m looking to collaborate on FOSS
 - 🤔 I’m looking for awesome projects
 - 💬 Ask me anything about tech
