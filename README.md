@@ -6,7 +6,7 @@
 
 <!--- ⚡ Fun fact: -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vyshnav-KS&&count_private=true&show_icons=true&title_color=ffffff&icon_color=19fc42&text_color=05f8fc&bg_color=1c1b1b">
+<img src="https://github-readme-stats.vercel.app/api?username=Vyshnav-KS&&count_private=true&show_icons=true&title_color=ffffff&icon_color=19fc42&text_color=05f8fc&bg_color=1c1b1b" alt= "Vyshnav K S">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyshnav-KS&background=1c1b1b&ring=19fc42&currStreakNum=19fc42&currStreakLabel=19fc42&fire=19fc42&sideNums=05f8fc&currStreakLabel=19fc42&sideLabels=05f8fc&dates=ffffff" alt ="Vyshnav-KS">
 
