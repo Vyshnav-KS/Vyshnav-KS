@@ -19,8 +19,9 @@
 <!--   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyshnav-KS&langs_count=10&theme=tokyonight&layout=compact" alt="Vyshnav-KS :: Top Langs" /></p> -->
 
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyshnav-KS&background=1c1b1b&ring=19fc42&currStreakNum=19fc42&currStreakLabel=19fc42&fire=19fc42&sideNums=05f8fc&currStreakLabel=19fc42&sideLabels=05f8fc&dates=ffffff" alt ="Vyshnav-KS"></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vyshnav-KS&langs_count=14&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-<h3 align = "center">Connect with me:</h2>
+<!-- <h3 align = "center">Connect with me:</h2>
 
 <p align = "center"> 
   <a href="https://twitter.com/VyshnavKS2"> twitter </a>
@@ -30,7 +31,7 @@
 </p> 
 <p align = "center"> 
   <a href="https://vyshnav.codes"> portfolio </a>
-</p> 
+</p>  -->
 
 
                           
