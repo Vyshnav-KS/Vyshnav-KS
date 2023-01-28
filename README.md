@@ -2,7 +2,13 @@
 <div align = "center">
   <p>- 🔭 I’m an engineering aspirant </p>
   <p>- 💬 Ask me anything about tech </p>
-  <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/vyshnav-ks/"> Linkedin </a> </p>
+<!--   <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/vyshnav-ks/"> Linkedin </a> </p> -->
+  <p align="center">
+<a href="https://vyshnavks.vercel.app"><img src="https://img.shields.io/badge/-vyshnavks.vercel.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vyshnav-ks"><img src="https://img.shields.io/badge/-Vyshnav%20K%20S-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:vyshnavks85@gmail.com"><img src="https://img.shields.io/badge/-vyshnavks85@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/justvyshnav"><img src="https://img.shields.io/badge/-@justvyshnav-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 </div>
 
 <!--- ⚡ Fun fact: -->
