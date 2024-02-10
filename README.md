@@ -1,6 +1,7 @@
 <h1 align = "center"> Hi there 👋, I'm Vyshnav </h1>
 <div align = "center">
-  <p>- 🔭 I’m an engineering aspirant </p>
+  <p>- 🔭 I’m a Software Developer </p>
+  <p>- 🔭 AI Enthusiast. </p>
   <p>- 💬 Ask me anything about tech </p>
 <!--   <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/vyshnav-ks/"> Linkedin </a> </p> -->
   <p align="center">
