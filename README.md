@@ -12,9 +12,9 @@
 </div>
 
 <!--- ⚡ Fun fact: -->
-<p align = "center">
+<!---<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vyshnav-KS&&count_private=true&show_icons=true&title_color=ffffff&icon_color=19fc42&text_color=05f8fc&bg_color=1c1b1b" alt= "Vyshnav K S">
-  </p>
+  </p> --->
   
 <!--   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyshnav-KS&langs_count=10&theme=tokyonight&layout=compact" alt="Vyshnav-KS :: Top Langs" /></p> -->
 
